@@ -1,0 +1,29 @@
+
+  _    _       _                         _______                   
+ | |  | |     | |                       |__   __|                  
+ | |__| | ___ | |_ __ _ _ __ _   _ ___     | | ___  __ _ _ __ ___  
+ |  __  |/ _ \| __/ _` | '__| | | / __|    | |/ _ \/ _` | '_ ` _ \ 
+ | |  | | (_) | || (_| | |  | |_| \__ \    | |  __/ (_| | | | | | |
+ |_|  |_|\___/ \__\__,_|_|   \__,_|___/    |_|\___|\__,_|_| |_| |_|
+
+                                                                  Since 2010 - 2021
+
+HACKED DINERS CLUB ADMIN PANEL WEB DRUPAL
+
+
+
+Contact:
+Twitter:          N/A
+Support:          https://t.me/hotarusteam
+DATA BASE LEAKS : http://yurljrkrd3r36f32dnkgqahsod3vnlxhtk3fam3xrunw7zlioeumnlyd.onion/
+
+! a small demostration of the hijacked information !
+They have 12 days to make the payment of 30 million dollars in bitcoins or reach a negotiation, we will continue to publish more sensitive information.
+
+To show your willingness to negotiate We leave a bitcoin account: bc1qr9xyn8ksanykq7hy7u6g2j5whxc6agnz9jnltp
+
+INSERT INTO `users` (`uid`, `name`, `pass`, `mail`, `theme`, `signature`, `signature_format`, `created`, `access`, `login`, `status`, `timezone`, `language`, `picture`, `init`, `data`, `uuid`) VALUES
+(0, '', '', '', '', '', NULL, 0, 0, 0, 0, NULL, '', 0, '', NULL, 'ee116366-829a-4640-9fd8-bf1ea93fac53'),
+(26, 'editor_dce', '$S$DPtZYvWWLaUvX34.4sCovsWcdmHz.93dF0jH3BlH1OKQKJrKutPm', 'editor_dce@gmail.com', '', '', 'plain_text', 1412289764, 1595262322, 1595262322, 1, 'America/Guayaquil', 'es', 0, 'vichito00@gmail.com', 0x623a303b, 'a6d271b9-e277-45a7-828a-3df076ce79ad'),
+(243, 'reporter-cargos-recurrentes', '$S$DAUjr8W5Q5kQDc9DZqH8YeXGLLpTiejF5Ztx6HaLnscEha4z0kI4', 'ediaz@dinersclub.com.ec', '', '', 'plain_text', 1441314481, 1467584927, 1467583992, 1, 'America/Guayaquil', 'es', 0, 'fabiansgb@hotmail.com', 0x613a323a7b733a31373a226d696d656d61696c5f746578746f6e6c79223b693a303b733a31383a2268746d6c6d61696c5f706c61696e74657874223b693a303b7d, 'c2757e7e-0265-45a2-ad9a-cdeb15c50dc8'),
+(269, 'reporter-cargos-recurrentes-pazminio', '$S$DKdo4.RAb41fT4yNoNVpoLLCVJvrGFEeGi1tXkBl8vQEcJg01/JP', 'mpazminio@Dinersclub.com.ec', '', '', 'plain_text', 1452178591, 1452524634, 1452179633, 1, 'America/Guayaquil', 'es', 0, 'mpazminio@Dinersclub.com.ec', 0x613a323a7b733a31373a226d696d656d61696c5f746578746f6e6c79223b693a303b733a31383a2268746d6c6d61696c5f706c61696e74657874223b693a303b7d, '271d9649-413c-4e32-a96a-5e0abfa3d1d4');

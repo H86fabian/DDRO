@@ -1,0 +1,43 @@
+id,cedula_identidad,nombre,apellido,correo_electronico,departamento,deleted_at,created_at,updated_at
+1,1715827976,maria,jaramillo,sukita@hotmail.com,ventas,1612385391000,1610727564000,1612385391000
+2,1719658153,Marisa,Corral,mcorral@dinersclub.com.ec,ventas,1610749450000,1610727564000,1610749450000
+3,1715827977,belen ,jaramillo,belen.jaramillo@ppm.com.ec,ventas,1612385391000,1610727564000,1612385391000
+4,1719658154,Marisa,Corral,maricorral29@gmail.com,tecnologia,1610749450000,1610727564000,1610749450000
+5, 171453598,Grace,Lucero,glucero@Dinersclub.com.ec,Asistente de Gerencia,1611183715000,1610749450000,1611183715000
+6, 171734631,Andrea,Granda,apgranda@Dinersclub.com.ec,Asistente de Gerencia,1611183716000,1610749450000,1611183716000
+7, 030164845,Maria Agusta,Calle,mcalle@Dinersclub.com.ec,Asistente de Negocios,1611183716000,1610749450000,1611183716000
+8,1713049870,José Luis,Trávez,jtravez@dinersclub.com.ec,Responsabilidad Social,1611183716000,1610749450000,1611183716000
+9,1204372427,Paul,Urquiza,purquiza@Dinersclub.com.ec,Seguros,1611183716000,1610749450000,1611183716000
+10,1712754546,Eduardo,Alvarez,ealvarez@Dinersclub.com.ec,CDO,1611183716000,1610749450000,1611183716000
+11,1716257413,Christian,Solorzano,csolorzano@Dinersclub.com.ec,Administrativo,1611183716000,1610749450000,1611183716000
+12,1709122541,Luis Felipe,Thurdekoos,lthur@Dinersclub.com.ec,Comercial Personas (FVA),1611183716000,1610749450000,1611183716000
+13,1720436094,Ma. Jose,Paez,mpaez@Dinersclub.com.ec,Comercial Establecimientos,1611183716000,1610749450000,1611183716000
+14,1714969431,Paulina,Nogales,pnogales@Dinersclub.com.ec,Fábrica de crédito FCC,1611183716000,1610749450000,1611183716000
+15,1711383362,Xavier,Navarrete,xnavarrete@Dinersclub.com.ec,Call Center,1611183716000,1610749450000,1611183716000
+16,1710972926,Juan Jose,Jimenez,jjimenez@dinersclub.com.ec,Oficinas,1611183716000,1610749450000,1611183716000
+17,0101941763,Bernardo,Cueva,bcueva@Dinersclub.com.ec,CUENCA,1611183716000,1610749450000,1611183716000
+18,1712622446,Melissa,Perez,mperez@Dinersclub.com.ec,GRANDE TABLE,1611183716000,1610749450000,1611183716000
+19,1703892636,Alex,Vasconez,avascone@Dinersclub.com.ec,Directorio TEATRO SUCRE,1611183716000,1610749450000,1611183716000
+20,1708749062,Boris,Cevallos,bcevallos@dinersclub.com.ec,INVERSIONES,1611183716000,1610749450000,1611183716000
+21,1714196803,Daniela,Donoso,ldonoso@Dinersclub.com.ec,DISCOVER,1611183716000,1610749450000,1611183716000
+22,603383084,Sarahi,Tinajero,stinajero@Dinersclub.com.ec,TITANIUM,1611183716000,1610749450000,1611183716000
+23,1715827978,mabe ,jaramillo,belenj92@gmail.com,ventas,1612385391000,1611183716000,1612385391000
+24,1715827979,susana,villarreal,susana.villarrel@supermaconsvi.com,ventas,1612385391000,1611184133000,1612385391000
+25,1715827980,maria,jaramillo,administracion@supermaconsvi.com,ventas,1612385391000,1611184133000,1612385391000
+26,1715827981,cesar,hurtado,angelandreshurtado1995@gmail.com,ventas,1612385391000,1611184133000,1612385391000
+27,1715827982,daniel,larrea,danelar87@gmail.com,ventas,1612385391000,1611184133000,1612385391000
+28,1715827983,priscila,mazon,priscila.mazon@ppm.com.ec,ventas,1612385392000,1611184133000,1612385392000
+29,1715827984,andrea ,samaniego,andrea.samaniego@ppm.com.ec,ventas,1612385392000,1611184133000,1612385392000
+30,1715827985,recurrencia,jaramillo,recurrencia@ppm.com.ec,ventas,1612385392000,1611184133000,1612385392000
+31,1715827986,andrea,samaniego,daniel@hotmail.com,financiero,1611937260000,1611184133000,1611937260000
+32,1715827987,maria,jaramillo,daniel@gmail.com,marketing,1611937260000,1611184133000,1611937260000
+33,1715827988,andrea,samaniego,andrea.samaniego@gmail.com,ventas,1611937260000,1611184133000,1611937260000
+34,1715827989,maria,jaramillo,belenjaramillo@gmail.com,financiero,1611937260000,1611184133000,1611937260000
+35,1715827990,andrea,samaniego,belenj@hotmail.com,marketing,1611937260000,1611184133000,1611937260000
+36,1716525897,Rodrigo,Chacon,rodrigoandreschacon@gmail.com,ventas,,1612385392000,1612385392000
+37,1762583763,andres,chacon,rchacon@paniju.com.ec,ventas,,1612385392000,1612385392000
+38,1772619482,belen,saavedra,saavedra_belen@hotmail.com,ventas,,1612385392000,1612385392000
+39,1782736409,marisa,corral,dcorral92@yahoo.com,ventas,,1612385392000,1612385392000
+40,1763046102,mari,corral,maricorral29@gmail.com,ventas,,1612385392000,1612385392000
+41,1784638202,belen,jaramillo,sukita@hotmail.com,ventas,,1612385392000,1612385392000
+42,1784638203,recurrencia ,ppm,recurrencia@ppm.com.ec,ventas,,1612385392000,1612385392000
